@@ -179,6 +179,17 @@ On the free tier the database resets when the app restarts. The 10 users return 
 6. Back as **Admin**, show the updated progress. Use **Reset projects and tasks** before the next run.
 
 **Pitch:** *"We turn meetings into assigned, tracked work in one click, and a human always confirms before anything is saved."*
+## Some Images
+
+
+
+<img width="1915" height="761" alt="Screenshot 2026-10-07 124720" src="https://github.com/user-attachments/assets/8fbaaece-41fb-4e30-9178-2505e0e9575b" />
+
+<img width="1918" height="763" alt="Screenshot 2026-10-07 124701" src="https://github.com/user-attachments/assets/3c14a048-b621-4157-976d-cd913c0bf73b" />
+
+<img width="1918" height="867" alt="Screenshot 2026-10-07 124528" src="https://github.com/user-attachments/assets/a684dfbb-29ed-4968-9ca4-c05c96e39ab9" />
+
+<img width="1917" height="866" alt="Screenshot 2026-10-07 123903" src="https://github.com/user-attachments/assets/5eb83dc3-93b1-4c2f-9d2c-3271d7ec8e2f" />
 
 ## Troubleshooting
 | Problem | Fix |

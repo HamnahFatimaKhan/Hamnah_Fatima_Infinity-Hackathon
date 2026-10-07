@@ -3,7 +3,7 @@
 
 **The Infinity Hack '26: AI Project Manager Challenge**
 
-Team: `[Your team name]` | Members: `[Name 1, Name 2, Name 3]` | Live demo: `[https://your-app-link]`
+Team: `PickA Bite` | Members: `Noor ul Ain Zahid, Hamnah Fatima Khan, Zulaikha Arshad, Fariha Imran ` | Live demo: `https://37uesvnghpuluaqntjnw22.streamlit.app/`
 
 ---
 

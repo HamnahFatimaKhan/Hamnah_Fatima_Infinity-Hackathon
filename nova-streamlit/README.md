@@ -210,4 +210,10 @@ On the free tier the database resets when the app restarts. The 10 users return 
 Audio upload and transcription, drag-and-drop kanban board, task comments and activity log, AI risk flags (overloaded agents, clashing deadlines), email or Slack notifications, and workload charts.
 
 ---
-*Built for The Infinity Hack '26. Powered by OpenRouter.*
+
+## Team:
+- Noor ul Ain Zahid
+- Hamnah Fatima Khan
+- Fariha Imran
+- Zulaikha Arshad
+
